@@ -1,0 +1,50 @@
+body{
+    text-align: center;
+    margin: 0;
+    
+}
+#riri{
+    border-radius: 50%;
+}
+#bemvindo{
+    background: linear-gradient(#cf53f5 40%, #498feb 90%);
+    width: 100%;
+    height:100%;
+    display: table;
+    bottom: 0;
+    font-size: 32px;
+    font-family: 'Kablammo', cursive;
+}
+ 
+
+#organizacao{
+    display: table-cell;
+    vertical-align:middle ;
+}
+#minhahistoria{
+  padding: 50px; 
+  font-size: 26px; 
+  font-family: 'VT323', monospace;
+
+}
+#listinha{
+    position: fixed;
+    background: red;
+    margin-top: 0px;
+    z-index: 10;
+    top: 0px;
+}
+.helfinhos{
+
+    display: inline;
+    padding-left: 9px;
+    padding-right: 9px;
+    font-size: 22px;
+
+}
+.helfinhos:hover{
+    font-size: 36;
+}
+#nacido iframe{
+    width: 100%;
+}
